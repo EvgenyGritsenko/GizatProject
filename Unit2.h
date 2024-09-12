@@ -18,6 +18,8 @@ __published:	// IDE-managed Components
 	TLabel *Label2;
 	TLabel *Label1;
 	TMemo *Memo1;
+	TLabel *Label3;
+	TMemo *Memo2;
 	void __fastcall Memo1Change(TObject *Sender);
 	void __fastcall FormCreate(TObject *Sender);
 private:	// User declarations

@@ -18,7 +18,7 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 void __fastcall TForm1::N4Click(TObject *Sender)
 {
     TForm2 *form = new TForm2(this);
-    form->ShowModal();
-    delete form;
+    form->Show();
+//    delete form;
 }
 //---------------------------------------------------------------------------

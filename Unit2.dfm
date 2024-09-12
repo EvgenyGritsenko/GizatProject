@@ -2,11 +2,12 @@ object Form2: TForm2
   Left = 0
   Top = 0
   Align = alClient
-  BorderStyle = bsSizeToolWin
-  Caption = 'Form2'
+  BorderStyle = bsDialog
+  Caption = #1056#1072#1079#1076#1077#1083' '#1058#1077#1086#1088#1080#1080
   ClientHeight = 785
-  ClientWidth = 554
+  ClientWidth = 583
   Color = clBtnFace
+  Constraints.MaxWidth = 600
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clDarkgray
   Font.Height = -12
@@ -933,11 +934,27 @@ object Form2: TForm2
     ParentFont = False
     WordWrap = True
   end
+  object Label3: TLabel
+    Left = 5
+    Top = 400
+    Width = 518
+    Height = 56
+    Caption = 
+      #1045#1089#1083#1080' '#1092#1091#1085#1082#1094#1080#1103' '#1085#1080#1095#1077#1075#1086' '#1085#1077' '#1076#1086#1083#1078#1085#1072' '#1074#1086#1079#1074#1088#1072#1097#1072#1090#1100', '#1077#1105' '#1084#1086#1078#1085#1086' '#1086#1073#1098#1103#1074#1080#1090#1100' '#1082#1072#1082' ' +
+      'void:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowFrame
+    Font.Height = -20
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+    WordWrap = True
+  end
   object Memo1: TMemo
     Left = 8
     Top = 288
     Width = 531
-    Height = 257
+    Height = 97
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clDarkgray
     Font.Height = -16
@@ -949,7 +966,38 @@ object Form2: TForm2
       '    return a + b;'
       '}')
     ParentFont = False
+    ReadOnly = True
     TabOrder = 0
+    OnChange = Memo1Change
+  end
+  object Memo2: TMemo
+    Left = 5
+    Top = 462
+    Width = 531
+    Height = 275
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clDarkgray
+    Font.Height = -16
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    Lines.Strings = (
+      'void DoSomething(double d, char c) {'
+      '    // ...'
+      '    // '#1087#1080#1089#1072#1090#1100' return '#1074' '#1082#1086#1085#1094#1077' '#1090#1072#1082#1086#1081' '#1092#1091#1085#1082#1094#1080#1080' '#1085#1077' '#1086#1073#1103#1079#1072#1090#1077#1083#1100#1085#1086','
+      
+        '    //     '#1085#1086' '#1077#1089#1083#1080' '#1090#1088#1077#1073#1091#1077#1090#1089#1103' '#1079#1072#1074#1077#1088#1096#1080#1090#1100' '#1092#1091#1085#1082#1094#1080#1102', '#1084#1086#1078#1085#1086' '#1085#1072#1087#1080#1089#1072#1090#1100' '#1087 +
+        #1088#1086#1089#1090#1086' '
+      'return;'
+      '}'
+      ''
+      'int main() {'
+      '    int x = 17, y = 42;'
+      '    int z = Sum(x, y);'
+      '    DoSomething(3.14, '#39'@'#39');'
+      '}')
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 1
     OnChange = Memo1Change
   end
 end
