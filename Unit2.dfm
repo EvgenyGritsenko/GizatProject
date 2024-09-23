@@ -2,10 +2,10 @@ object Form2: TForm2
   Left = 0
   Top = 0
   Align = alClient
-  BorderStyle = bsDialog
-  Caption = #1056#1072#1079#1076#1077#1083' '#1058#1077#1086#1088#1080#1080
-  ClientHeight = 785
-  ClientWidth = 583
+  BorderStyle = bsSingle
+  Caption = #1058#1045#1054#1056#1048#1071': '#1042#1042#1045#1044#1045#1053#1048#1045
+  ClientHeight = 753
+  ClientWidth = 581
   Color = clBtnFace
   Constraints.MaxWidth = 600
   Font.Charset = DEFAULT_CHARSET
@@ -13,6 +13,7 @@ object Form2: TForm2
   Font.Height = -12
   Font.Name = 'Segoe UI'
   Font.Style = []
+  Position = poDefault
   OnCreate = FormCreate
   TextHeight = 15
   object Image1: TImage
