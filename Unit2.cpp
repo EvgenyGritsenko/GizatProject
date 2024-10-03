@@ -14,11 +14,6 @@ __fastcall TForm2::TForm2(TComponent* Owner)
 {
 }
 //---------------------------------------------------------------------------
-void __fastcall TForm2::FormCreate(TObject *Sender)
-{
-	Memo1->ReadOnly = true;
-}
-//---------------------------------------------------------------------------
 void __fastcall TForm2::Memo1Change(TObject *Sender)
 {
     // Логика при изменении текста в Memo (если она нужна), или оставь пустым.

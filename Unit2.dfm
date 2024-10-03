@@ -14,7 +14,6 @@ object Form2: TForm2
   Font.Name = 'Segoe UI'
   Font.Style = []
   Position = poDefault
-  OnCreate = FormCreate
   TextHeight = 15
   object Image1: TImage
     Left = -8

@@ -12,6 +12,10 @@
 #include "Unit6.h"
 #include "Unit7.h"
 #include "Unit8.h"
+#include "Unit9.h"
+#include "Unit10.h"
+#include "Unit11.h"
+#include "Unit12.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -107,4 +111,28 @@ void __fastcall TForm1::N11Click(TObject *Sender)
 }
 //---------------------------------------------------------------------------
 
+
+void __fastcall TForm1::N12Click(TObject *Sender)
+{
+	Form9->Show();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::N13Click(TObject *Sender)
+{
+    Form10->Show();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::N14Click(TObject *Sender)
+{
+    Form11->Show();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::N15Click(TObject *Sender)
+{
+    Form12->Show();
+}
+//---------------------------------------------------------------------------
 

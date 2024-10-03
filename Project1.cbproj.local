@@ -1,20 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.865,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit7.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit7.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.516,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.587,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit3.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit1.dfm=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit1.h=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.589,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit10.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.083,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit11.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit12.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit1.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.451,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit5.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.480,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit1.cpp=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.084,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Project1.cbproj=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.059,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Project1PCH1.h=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.917,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.794,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit6.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.210,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit8.cpp</Transaction>
+    <Transaction>2024.10.03 08:44:31.873,=C:\Users\grits\OneDrive\Документы\Embarcadero\Studio\Projects\Gizat\Unit13.cpp</Transaction>
   </Transactions>
 </BorlandProject>

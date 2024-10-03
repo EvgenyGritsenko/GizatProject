@@ -4493,7 +4493,7 @@ object Form1: TForm1
   end
   object Label8: TLabel
     Left = 958
-    Top = 536
+    Top = 532
     Width = 97
     Height = 35
     Cursor = crHandPoint
@@ -4566,6 +4566,25 @@ object Form1: TForm1
       object N11: TMenuItem
         Caption = #1048#1075#1088#1099' '#1085#1077' '#1073#1091#1076#1077#1090', '#1044#1077#1076' '#1052#1086#1088#1086#1079'...'
         OnClick = N11Click
+      end
+    end
+    object N10: TMenuItem
+      Caption = #1055#1088#1086#1075#1088#1072#1084#1084#1099
+      object N12: TMenuItem
+        Caption = #1057#1083#1086#1078#1077#1085#1080#1077' '#1095#1080#1089#1077#1083
+        OnClick = N12Click
+      end
+      object N13: TMenuItem
+        Caption = #1042#1099#1074#1086#1076' '#1089#1086#1086#1073#1097#1077#1085#1080#1081
+        OnClick = N13Click
+      end
+      object N14: TMenuItem
+        Caption = #1059#1084#1085#1086#1078#1077#1085#1080#1077' '#1095#1080#1089#1077#1083
+        OnClick = N14Click
+      end
+      object N15: TMenuItem
+        Caption = #1055#1088#1086#1074#1077#1088#1082#1072' '#1095#1077#1090#1085#1086#1089#1090#1080
+        OnClick = N15Click
       end
     end
   end
